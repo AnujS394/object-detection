@@ -1,4 +1,4 @@
-# 👁️ Real-Time Face Detection with YOLO and OpenCV
+# 👁️ Real-Time Obeject Detection with YOLO and OpenCV
 
 This project demonstrates real-time face detection using a custom-trained **YOLO** model and a webcam, implemented in **Python** with **OpenCV**.
 
